@@ -8,7 +8,7 @@ favicon: >-
 title: 'functime: scalable global forecasting'
 ---
 
-# 🔮 functime: blazingly fast time series forecasting
+# 🔮 Forecasting with functime
 Scalable forecasting with Polars and global models
 
 <div class="absolute bottom-10">
