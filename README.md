@@ -4,7 +4,7 @@
 
 Source code for the talk *Polars And Functime: How To Innovate Time Series Forecasting* at Kaggle Days Milan.
 
-- 📽️ [Live](https://www.youtube.com/watch?v=XsxrhGlkyk0)
+- 📽️ [Live](https://www.youtube.com/live/W2jiOODzjU0?si=tGgBEBhbIJFoI5X0&t=125)
 
 ## 🛩️ How to run
 
